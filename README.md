@@ -75,3 +75,7 @@ SCRAPERAPI_KEY: This is required to interact with the ScraperAPI service. You ca
 No additional environment variables are required to run the application.
 GROQ_API_KEY: This is required to interact with the Groq API. You can get your API key by signing up on Groq. Make sure to enter the key in the .env file as shown above.
 Both API keys should be stored in your .env file for secure access.
+
+### Project Walkthrough Video
+ Check out a short video walkthrough of the project:
+ [Loom Video Walkthrough](https://www.loom.com/share/ef2cbc101f1a433c85ec01717d6ad072)
